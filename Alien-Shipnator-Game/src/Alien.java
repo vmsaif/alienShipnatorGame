@@ -1,5 +1,5 @@
 import java.awt.Color;
-
+//
 public class Alien extends Sprite {
 	public static int ran;
 	private static final Color green2 = new Color(34,139,34);
