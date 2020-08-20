@@ -1,3 +1,8 @@
+/**
+ * @author 		Saif Mahmud
+ * @version     March 20, 2019	
+ */
+
 import java.awt.Color;
 
 public class Sprite {
