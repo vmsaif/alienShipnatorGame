@@ -32,3 +32,7 @@ To run the game, follow these steps:
    `java Display`
 
 The game should now start and you can play using the keyboard controls.
+
+## Visual Demonstration
+
+<img src="alienShipnator.gif" width="450" height="550"/>
