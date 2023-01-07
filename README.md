@@ -25,7 +25,7 @@ In this project, I learned:
 Ensure that you have the latest version of Java installed on your computer.
 
 ### To Compile
-   
+
    javac -d bin src\*.java
    
 ### Run
