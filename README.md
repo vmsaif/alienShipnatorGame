@@ -20,16 +20,17 @@ In this project, I learned:
 - Using 2D arrays and the Java Swing library for graphical output
 - Working with the ArrayList class in Java
 
-## Running the Code
+## Compiling and Running
 
-To run the game, follow these steps:
+Ensure that you have the latest version of Java installed on your computer.
 
-1. Make sure you have the Java Development Kit (JDK) installed on your machine.
-2. Navigate to the `src` folder in the terminal or command prompt.
-3. Compile the `Display.java` file using the `javac` command:
-   `javac Display.java`
-4. Run the compiled code using the `java` command:
-   `java Display`
+### To Compile
+   
+   javac -d bin src\*.java
+   
+### Run
+   
+   java -cp bin\ Display
 
 The game should now start and you can play using the keyboard controls.
 
