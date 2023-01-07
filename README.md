@@ -26,11 +26,11 @@ Ensure that you have the latest version of Java installed on your computer.
 
 ### To Compile
 
-   javac -d bin src\*.java
+      javac -d bin src\*.java
    
 ### Run
    
-   java -cp bin\ Display
+      java -cp bin\ Display
 
 The game should now start and you can play using the keyboard controls.
 
