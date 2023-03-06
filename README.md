@@ -1,5 +1,7 @@
 # Alien Shipnator Game
 
+[![Hits](https://hits.sh/github.com/vmsaif/alienShipnatorGame.svg?label=Visits&color=100b75)](https://hits.sh/github.com/vmsaif/alienShipnatorGame/)
+
 A Java game, where you shoot aliens and avoid being hit by their shots.
 
 ## How to Play
